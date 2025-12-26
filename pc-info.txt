@@ -1,0 +1,4 @@
+Operating System: Windows 11 Home Single Language, 
+Memory: 13.80 GB, 
+CPU: AMD Ryzen 5 PRO 4650G with Radeon Graphics, 
+GPU: AMD Radeon(TM) Graphics
