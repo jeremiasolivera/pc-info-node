@@ -23,3 +23,13 @@ Podés verificar tu versión de Node con:
 
 ```bash
 node -v
+```
+## Ejecutar Programa
+
+Para ejecutar el programa se debe correr por terminal el siguiente comando: 
+
+```bash
+node pc-requeriments.js
+```
+
+Los resultados de la ejecución se guardarán en un archivo llamado 'pc-info.txt'
